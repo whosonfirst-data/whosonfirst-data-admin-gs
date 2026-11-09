@@ -80,7 +80,6 @@
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         85632301,
-        85681367,
         102193527,
         136253055
     ],
@@ -101,14 +100,13 @@
             "country_id":-1,
             "dependency_id":85632301,
             "empire_id":136253055,
-            "locality_id":421177465,
-            "region_id":85681367
+            "locality_id":421177465
         }
     ],
     "wof:id":421177465,
     "wof:lastmodified":1690927550,
     "wof:name":"Stromness",
-    "wof:parent_id":85681367,
+    "wof:parent_id":85632301,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-gs",
     "wof:superseded_by":[],
